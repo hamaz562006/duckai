@@ -6,6 +6,7 @@
       "name": "duckai-openai-server",
       "dependencies": {
         "got-scraping": "^4.2.1",
+        "got": "14.6.6",
         "jsdom": "^25.0.1",
         "openai": "^4.103.0",
         "pdf-parse": "^1.1.1",
